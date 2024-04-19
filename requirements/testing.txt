@@ -3,3 +3,4 @@
 black[jupyter]==24.4.0
 isort==5.13.2
 pre-commit==3.7.0
+pytest==8.1.1
